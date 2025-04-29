@@ -1,0 +1,37 @@
+14 Cappellino LightYellow Bambino 86.13 Non disponibile 
+19 Pantaloni GoldenRod Bambino 67.21 Non disponibile 
+20 T-shirt Maroon Bambino 23.23 Disponibile 
+25 Shorts DarkGreen Bambino 98.74 Non disponibile 
+26 Pantaloni Wheat Bambino 36.18 Non disponibile 
+29 Felpa Snow Bambino 67.46 Non disponibile 
+36 Shorts Aqua Bambino 32.32 Non disponibile 
+38 Giubbotto LavenderBlush Bambino 48.25 Non disponibile 
+45 Felpa Maroon Bambino 95.18 Non disponibile 
+48 Pantaloni LightSalmon Bambino 19.92 Disponibile 
+49 Cappellino Green Bambino 97.52 Disponibile 
+51 Shorts SteelBlue Bambino 22.8 Non disponibile 
+64 Giubbotto Orchid Bambino 72.74 Disponibile 
+65 Shorts Brown Bambino 13.76 Disponibile 
+66 Giubbotto LightCoral Bambino 41.3 Non disponibile 
+69 Giubbotto LavenderBlush Bambino 20.47 Disponibile 
+70 Shorts PaleGreen Bambino 53.72 Disponibile 
+78 Shorts DeepSkyBlue Bambino 80.62 Disponibile 
+79 T-shirt SaddleBrown Bambino 33.63 Disponibile 
+90 Cappellino DodgerBlue Bambino 17.63 Disponibile 
+91 Cappellino Linen Bambino 69.31 Disponibile 
+100 Giubbotto LightSeaGreen Bambino 28.76 Disponibile 
+101 Pantaloni SeaGreen Bambino 66.7 Disponibile 
+111 Shorts SkyBlue Bambino 47.11 Non disponibile 
+120 Shorts PaleVioletRed Bambino 19.04 Non disponibile 
+136 T-shirt Pink Bambino 65.87 Non disponibile 
+140 Giubbotto OrangeRed Bambino 28.99 Disponibile 
+143 Giubbotto SeaShell Bambino 91.39 Non disponibile 
+146 T-shirt BurlyWood Bambino 51.7 Non disponibile 
+151 T-shirt BlanchedAlmond Bambino 16.74 Non disponibile 
+163 Shorts Thistle Bambino 75.88 Non disponibile 
+164 T-shirt NavajoWhite Bambino 68.08 Disponibile 
+166 Shorts Red Bambino 47.77 Disponibile 
+178 Giubbotto LightGray Bambino 76.57 Non disponibile 
+180 T-shirt MediumSlateBlue Bambino 23.87 Non disponibile 
+185 Giubbotto ForestGreen Bambino 20.76 Disponibile 
+194 Pantaloni HotPink Bambino 88.92 Non disponibile 

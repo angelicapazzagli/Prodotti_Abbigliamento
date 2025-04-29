@@ -1,0 +1,201 @@
+ID,Nome,Categoria,Prezzo,Disponibilita
+1,Canotta AliceBlue,Sport,84.48,Non disponibile
+2,Scarpe eleganti CornflowerBlue,Shoes,54.41,Non disponibile
+3,Leggings Aqua,Donna,79.5,Non disponibile
+4,Leggings Tomato,Donna,81.0,Disponibile
+5,Scarpe da ginnastica Blue,Sport,87.76,Non disponibile
+6,Giacca Wheat,Donna,40.33,Non disponibile
+7,Canotta Chocolate,Sport,20.93,Non disponibile
+8,Giacca Magenta,Donna,86.83,Disponibile
+9,Camicia PaleGoldenRod,Uomo,25.53,Non disponibile
+10,Occhiali da sole Aqua,Accessori,54.56,Disponibile
+11,Gonna LightCyan,Donna,77.9,Non disponibile
+12,Giacca Thistle,Donna,86.01,Non disponibile
+13,Orologio DarkOrange,Accessori,69.23,Disponibile
+14,Cappellino LightYellow,Bambino,86.13,Non disponibile
+15,Sneakers PaleGoldenRod,Shoes,96.68,Non disponibile
+16,Borsa Orchid,Accessori,65.3,Disponibile
+17,Stivaletti LightSalmon,Shoes,78.74,Disponibile
+18,Maglia termica Thistle,Sport,50.41,Disponibile
+19,Pantaloni GoldenRod,Bambino,67.21,Non disponibile
+20,T-shirt Maroon,Bambino,23.23,Disponibile
+21,Zaino PapayaWhip,Accessori,80.51,Non disponibile
+22,Occhiali da sole LightSeaGreen,Accessori,28.55,Disponibile
+23,Tuta Pink,Sport,53.39,Non disponibile
+24,Gonna Beige,Donna,77.58,Disponibile
+25,Shorts DarkGreen,Bambino,98.74,Non disponibile
+26,Pantaloni Wheat,Bambino,36.18,Non disponibile
+27,Cintura Blue,Accessori,54.9,Non disponibile
+28,Cintura GhostWhite,Accessori,98.04,Non disponibile
+29,Felpa Snow,Bambino,67.46,Non disponibile
+30,Maglia termica MediumVioletRed,Sport,43.23,Disponibile
+31,Orologio Magenta,Accessori,53.51,Disponibile
+32,Maglia termica OrangeRed,Sport,18.82,Non disponibile
+33,Jeans Green,Uomo,37.84,Disponibile
+34,Jeans DarkOrange,Uomo,50.41,Non disponibile
+35,Maglia termica MediumBlue,Sport,44.58,Non disponibile
+36,Shorts Aqua,Bambino,32.32,Non disponibile
+37,Sandali Sienna,Shoes,58.27,Disponibile
+38,Giubbotto LavenderBlush,Bambino,48.25,Non disponibile
+39,Stivaletti Chocolate,Shoes,95.91,Disponibile
+40,Giacca Salmon,Donna,68.13,Disponibile
+41,Blusa MediumPurple,Donna,47.45,Disponibile
+42,Tuta Cyan,Sport,55.5,Disponibile
+43,Borsa LightGreen,Accessori,49.94,Disponibile
+44,Pantaloncini MintCream,Sport,62.92,Non disponibile
+45,Felpa Maroon,Bambino,95.18,Non disponibile
+46,Tuta LightCyan,Sport,67.6,Non disponibile
+47,Camicia FloralWhite,Uomo,19.46,Disponibile
+48,Pantaloni LightSalmon,Bambino,19.92,Disponibile
+49,Cappellino Green,Bambino,97.52,Disponibile
+50,Gonna White,Donna,99.64,Disponibile
+51,Shorts SteelBlue,Bambino,22.8,Non disponibile
+52,Scarpe da corsa PeachPuff,Shoes,28.89,Non disponibile
+53,Giacca LightSeaGreen,Uomo,51.01,Disponibile
+54,T-shirt Indigo,Uomo,53.69,Non disponibile
+55,T-shirt Bisque,Uomo,31.06,Non disponibile
+56,Jeans White,Uomo,81.15,Non disponibile
+57,Camicia BurlyWood,Uomo,47.2,Non disponibile
+58,T-shirt DarkSeaGreen,Uomo,40.15,Disponibile
+59,Cintura Gray,Accessori,75.6,Non disponibile
+60,Cintura Violet,Accessori,76.6,Non disponibile
+61,Scarpe da ginnastica PaleTurquoise,Sport,85.35,Non disponibile
+62,Sneakers LightGray,Shoes,37.25,Non disponibile
+63,Camicia DarkSeaGreen,Uomo,76.08,Disponibile
+64,Giubbotto Orchid,Bambino,72.74,Disponibile
+65,Shorts Brown,Bambino,13.76,Disponibile
+66,Giubbotto LightCoral,Bambino,41.3,Non disponibile
+67,Gonna DarkOrchid,Donna,51.35,Disponibile
+68,Felpa DarkSlateGray,Uomo,29.0,Non disponibile
+69,Giubbotto LavenderBlush,Bambino,20.47,Disponibile
+70,Shorts PaleGreen,Bambino,53.72,Disponibile
+71,Cintura AntiqueWhite,Accessori,55.12,Non disponibile
+72,T-shirt GoldenRod,Uomo,74.36,Disponibile
+73,Cintura Red,Accessori,61.56,Non disponibile
+74,Blusa Cornsilk,Donna,24.57,Disponibile
+75,Canotta Yellow,Sport,80.1,Non disponibile
+76,Camicia LightBlue,Uomo,20.77,Disponibile
+77,Giacca Coral,Donna,19.24,Non disponibile
+78,Shorts DeepSkyBlue,Bambino,80.62,Disponibile
+79,T-shirt SaddleBrown,Bambino,33.63,Disponibile
+80,Scarpe da corsa MediumSeaGreen,Shoes,17.95,Non disponibile
+81,Maglia termica BlueViolet,Sport,35.21,Disponibile
+82,Scarpe da ginnastica LightSteelBlue,Sport,94.17,Non disponibile
+83,Stivaletti LimeGreen,Shoes,81.69,Non disponibile
+84,Jeans BurlyWood,Uomo,82.09,Disponibile
+85,Stivaletti Purple,Shoes,83.86,Non disponibile
+86,Zaino LightGreen,Accessori,84.93,Non disponibile
+87,Camicia LightSkyBlue,Uomo,26.12,Non disponibile
+88,Felpa Teal,Uomo,22.56,Disponibile
+89,Top MistyRose,Donna,19.52,Disponibile
+90,Cappellino DodgerBlue,Bambino,17.63,Disponibile
+91,Cappellino Linen,Bambino,69.31,Disponibile
+92,Felpa Pink,Uomo,43.59,Non disponibile
+93,Maglia termica Orange,Sport,94.08,Non disponibile
+94,Canotta SteelBlue,Sport,88.92,Non disponibile
+95,Zaino RoyalBlue,Accessori,97.67,Disponibile
+96,Tuta Purple,Sport,63.16,Non disponibile
+97,Sandali DarkBlue,Shoes,16.36,Disponibile
+98,Sneakers MediumPurple,Shoes,53.44,Disponibile
+99,Jeans MistyRose,Uomo,18.09,Disponibile
+100,Giubbotto LightSeaGreen,Bambino,28.76,Disponibile
+101,Pantaloni SeaGreen,Bambino,66.7,Disponibile
+102,Cintura MediumSpringGreen,Accessori,91.8,Non disponibile
+103,Leggings Thistle,Donna,90.75,Non disponibile
+104,Tuta DarkSalmon,Sport,39.83,Non disponibile
+105,Scarpe da ginnastica Plum,Sport,56.12,Non disponibile
+106,Stivaletti MediumSpringGreen,Shoes,95.48,Non disponibile
+107,Scarpe eleganti LightGreen,Shoes,75.26,Non disponibile
+108,Orologio MediumPurple,Accessori,95.73,Disponibile
+109,Maglia termica PaleGreen,Sport,83.83,Disponibile
+110,Canotta LightSeaGreen,Sport,42.4,Disponibile
+111,Shorts SkyBlue,Bambino,47.11,Non disponibile
+112,Camicia Chartreuse,Uomo,72.5,Non disponibile
+113,Sneakers LightBlue,Shoes,57.72,Disponibile
+114,T-shirt DarkSalmon,Uomo,91.03,Disponibile
+115,Sneakers SlateGray,Shoes,28.93,Non disponibile
+116,Borsa Brown,Accessori,20.79,Non disponibile
+117,Vestito Aqua,Donna,97.17,Non disponibile
+118,Giacca Black,Uomo,18.83,Non disponibile
+119,Borsa Purple,Accessori,35.39,Disponibile
+120,Shorts PaleVioletRed,Bambino,19.04,Non disponibile
+121,Blusa Blue,Donna,78.59,Non disponibile
+122,Pantaloncini Indigo,Sport,82.32,Non disponibile
+123,Giacca DarkBlue,Uomo,40.49,Disponibile
+124,Vestito LemonChiffon,Donna,57.31,Non disponibile
+125,Giacca Salmon,Uomo,57.22,Disponibile
+126,Maglia termica Linen,Sport,48.55,Disponibile
+127,Occhiali da sole SpringGreen,Accessori,63.69,Non disponibile
+128,Scarpe da corsa Chocolate,Shoes,40.3,Non disponibile
+129,Borsa Violet,Accessori,42.04,Disponibile
+130,Stivaletti DarkSalmon,Shoes,76.47,Non disponibile
+131,Maglia termica MintCream,Sport,86.18,Disponibile
+132,Vestito Cornsilk,Donna,17.28,Disponibile
+133,Canotta DarkSeaGreen,Sport,73.99,Non disponibile
+134,Cintura LightSteelBlue,Accessori,10.09,Non disponibile
+135,Sneakers White,Shoes,35.98,Disponibile
+136,T-shirt Pink,Bambino,65.87,Non disponibile
+137,Gonna PapayaWhip,Donna,70.1,Non disponibile
+138,Giacca Olive,Donna,49.93,Non disponibile
+139,Cintura MediumSpringGreen,Accessori,21.98,Disponibile
+140,Giubbotto OrangeRed,Bambino,28.99,Disponibile
+141,Borsa Salmon,Accessori,94.49,Non disponibile
+142,Gonna SlateBlue,Donna,23.35,Disponibile
+143,Giubbotto SeaShell,Bambino,91.39,Non disponibile
+144,Canotta DarkRed,Sport,13.87,Disponibile
+145,Sneakers BurlyWood,Shoes,22.94,Non disponibile
+146,T-shirt BurlyWood,Bambino,51.7,Non disponibile
+147,Occhiali da sole OliveDrab,Accessori,10.1,Disponibile
+148,Top MediumSeaGreen,Donna,66.94,Non disponibile
+149,Scarpe eleganti MediumTurquoise,Shoes,14.21,Non disponibile
+150,Tuta MediumPurple,Sport,59.06,Disponibile
+151,T-shirt BlanchedAlmond,Bambino,16.74,Non disponibile
+152,Felpa PowderBlue,Uomo,14.35,Disponibile
+153,Orologio Purple,Accessori,65.15,Non disponibile
+154,Scarpe eleganti Indigo,Shoes,66.85,Non disponibile
+155,Canotta Lavender,Sport,12.28,Disponibile
+156,Occhiali da sole DarkOliveGreen,Accessori,89.38,Non disponibile
+157,Pantaloni DarkRed,Uomo,98.9,Disponibile
+158,Giacca Peru,Donna,68.41,Disponibile
+159,Sneakers WhiteSmoke,Shoes,20.48,Non disponibile
+160,Maglia termica Linen,Sport,74.07,Disponibile
+161,Cintura DarkSlateGray,Accessori,10.81,Disponibile
+162,Felpa PowderBlue,Uomo,17.24,Disponibile
+163,Shorts Thistle,Bambino,75.88,Non disponibile
+164,T-shirt NavajoWhite,Bambino,68.08,Disponibile
+165,Cintura NavajoWhite,Accessori,53.23,Non disponibile
+166,Shorts Red,Bambino,47.77,Disponibile
+167,Giacca DarkOliveGreen,Uomo,70.54,Disponibile
+168,Felpa Gold,Uomo,30.64,Disponibile
+169,Camicia LemonChiffon,Uomo,76.54,Disponibile
+170,Scarpe da corsa MidnightBlue,Shoes,46.72,Non disponibile
+171,Giacca Salmon,Uomo,98.78,Disponibile
+172,Tuta SeaShell,Sport,48.8,Disponibile
+173,Gonna DarkSlateBlue,Donna,56.03,Non disponibile
+174,Orologio Lime,Accessori,86.69,Disponibile
+175,Maglia termica WhiteSmoke,Sport,19.86,Disponibile
+176,Scarpe eleganti Red,Shoes,64.04,Disponibile
+177,Scarpe da corsa Orange,Shoes,38.37,Non disponibile
+178,Giubbotto LightGray,Bambino,76.57,Non disponibile
+179,Sneakers DarkRed,Shoes,18.93,Disponibile
+180,T-shirt MediumSlateBlue,Bambino,23.87,Non disponibile
+181,Gonna Salmon,Donna,67.35,Disponibile
+182,Giacca Black,Uomo,66.05,Non disponibile
+183,Canotta AntiqueWhite,Sport,28.54,Disponibile
+184,Sneakers PowderBlue,Shoes,93.06,Disponibile
+185,Giubbotto ForestGreen,Bambino,20.76,Disponibile
+186,Blusa OldLace,Donna,19.44,Disponibile
+187,Scarpe eleganti LightCyan,Shoes,24.58,Disponibile
+188,Blusa WhiteSmoke,Donna,43.23,Disponibile
+189,Zaino DarkTurquoise,Accessori,56.04,Disponibile
+190,Scarpe eleganti LightBlue,Shoes,15.65,Non disponibile
+191,Giacca PaleGreen,Uomo,19.67,Non disponibile
+192,Pantaloni RoyalBlue,Uomo,24.0,Disponibile
+193,Pantaloncini LemonChiffon,Sport,34.03,Disponibile
+194,Pantaloni HotPink,Bambino,88.92,Non disponibile
+195,Top Snow,Donna,52.39,Disponibile
+196,Leggings DarkKhaki,Donna,28.04,Non disponibile
+197,Felpa BurlyWood,Uomo,68.75,Disponibile
+198,Zaino Plum,Accessori,88.02,Non disponibile
+199,T-shirt Sienna,Uomo,55.57,Disponibile
+200,Scarpe da ginnastica HoneyDew,Sport,56.08,Disponibile

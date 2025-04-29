@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PAZZAGLI.ANGELICA\\Documents\\Visual Studio 2022\\Prodotti_Abbigliamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27FBE8E2-CD50-4AEC-9370-5D4EACF26BE4}|Prodotti_Abbigliamento\\Prodotti_Abbigliamento.csproj|c:\\users\\pazzagli.angelica\\documents\\visual studio 2022\\prodotti_abbigliamento\\prodotti_abbigliamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FBE8E2-CD50-4AEC-9370-5D4EACF26BE4}|Prodotti_Abbigliamento\\Prodotti_Abbigliamento.csproj|solutionrelative:prodotti_abbigliamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PAZZAGLI.ANGELICA\\Documents\\Visual Studio 2022\\Prodotti_Abbigliamento\\Prodotti_Abbigliamento\\Program.cs",
+              "RelativeDocumentMoniker": "Prodotti_Abbigliamento\\Program.cs",
+              "ToolTip": "C:\\Users\\PAZZAGLI.ANGELICA\\Documents\\Visual Studio 2022\\Prodotti_Abbigliamento\\Prodotti_Abbigliamento\\Program.cs",
+              "RelativeToolTip": "Prodotti_Abbigliamento\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:20:45.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
