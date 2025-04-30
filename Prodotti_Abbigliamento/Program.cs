@@ -23,6 +23,7 @@ for (int i = 0; i < prodotti.Length; i++)
     {
         if (j == 3 && i != 0)
         {
+            colonne[3] = colonne[3].Replace('.', ',');
             prezzo = float.Parse(colonne[j]);
             prezzo += prezzo * 10 / 100;
             colonne[3] = prezzo.ToString();
