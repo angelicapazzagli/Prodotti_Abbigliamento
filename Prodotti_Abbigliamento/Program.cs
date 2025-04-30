@@ -93,3 +93,16 @@ writer4.Close();
 writer5.Close();
 writer6.Close();
 writer7.Close();
+
+string categorie = "";
+for(int i = 1; i < prodotti.Length; i++)
+{
+    string categoria = prodotti[i].Split(',')[2];
+    if(!categorie.Contains(categoria))
+    {
+        categorie += categoria + " ";
+    }
+}
+categorie = categorie.Substring(0, categorie.Length - 1);
+string[] categorie_array = categorie.Split(' ');
+Console.WriteLine(categorie_array[1]);

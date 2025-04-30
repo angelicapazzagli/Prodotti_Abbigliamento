@@ -12,3 +12,4 @@ C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Prodotti_Abbigliamento\P
 C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Prodotti_Abbigliamento\Prodotti_Abbigliamento\obj\Debug\net8.0\Prodotti_Abbigliamento.pdb
 C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Prodotti_Abbigliamento\Prodotti_Abbigliamento\obj\Debug\net8.0\Prodotti_Abbigliamento.genruntimeconfig.cache
 C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Prodotti_Abbigliamento\Prodotti_Abbigliamento\obj\Debug\net8.0\ref\Prodotti_Abbigliamento.dll
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Prodotti_Abbigliamento\Prodotti_Abbigliamento\obj\Debug\net8.0\Prodotti_Abbigliamento.sourcelink.json
